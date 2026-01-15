@@ -1,8 +1,8 @@
-[![MasterHead](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpdq7jvr8gzfkwt93l3bs.png)
+![MasterHead](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpdq7jvr8gzfkwt93l3bs.png)
 <h1 hizala="merkez">Merhaba 👋, ben Alperen Özdemir</h1>
 <h3 align="center">Türkiye'den Bir Ön Uç Geliştirici</h3>
 
-- 💬 Bana **React** hakkında soru sor
+- 💬 Bana **HTML-CSS-JavaScript** hakkında soru sorun
 
 - 📫 Bana nasıl ulaşılır **kskkastamonu100@gmail.com**
 
